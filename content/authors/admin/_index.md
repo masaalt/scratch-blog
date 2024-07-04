@@ -25,7 +25,7 @@ organizations:
     url: https://chatgptpeaz.ir
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ما یک تیم تخصصی در زمینه توسعه نرم افزار و آموزش هستیم که سال‌هاست موفقیت شما، هدف نهایی ماست
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

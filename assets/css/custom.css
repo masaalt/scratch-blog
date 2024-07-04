@@ -3,4 +3,9 @@
 * {
     text-align: justify;
     font-family: Lalezar;
+    direction: rtl;
+}
+
+.powered-by.text-center {
+    display: none;
 }
