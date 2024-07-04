@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'صفحه اصلی'
+date: 2024-04-24
 type: landing
 sections:
   - block: resume-biography

@@ -5,9 +5,7 @@ main:
   - name: صفحه اصلی
     url: /
     weight: 10
-  - name: موضوعات
-    url: tags/
+  - name: نرم‌‌افزار اسکرچ
+    url: "https://scratch.chatgptpeaz.ir/play"
     weight: 20
-  - name: کاربردها
-    url: uses/
-    weight: 30
+    target: "_blank"

@@ -46,9 +46,10 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://scratch.chatgptpeaz.ir"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+اسکرچ یک برنامه نویسی ساده است که به کودکان اجازه می دهد با استفاده از بلوک هایی
+ که دارای تصاویر هستند و به سادگی قابل فهم هستند، برنامه هایی را ایجاد کنند.
+  این برنامه برای کودکان 8 تا 16 سال مناسب است 
+  و قابلیت ایجاد بازی ها، داستان ها و برنامه های تعاملی را به کودکان می دهد.
