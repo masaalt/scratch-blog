@@ -39,7 +39,7 @@ profiles:
     url: https://www.linkedin.com/in/mohammadhassan-rezaei/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: jobvision.ir/cv/87330428-102408
+    url: uploads/resume.pdf
     label: دانلود رزومه مدیر
 
 # Highlight the author in author lists? (true/false)
