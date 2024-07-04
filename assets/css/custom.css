@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Lalezar;
+    src: url(https://fonts.googleapis.com/css2?family=Lalezar&display=swap);
+  }
 
 *{
     text-align: justify;
