@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Scratch Noor
+title: نور اسکرچ
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Mohammadhassan
-last_name: Rezaei
+first_name: محمدحسن
+last_name: رضایی
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Architecture and AI Researcher
+role: 'اسکرچ: برنامه نویسی ساده برای کودکان'
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Noor Team
+  - name: تیم تخصصی نور
     url: https://chatgptpeaz.ir
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,21 +31,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 'mailto:mh.rezaee2013@gmail.com'
+    label: ایمیل به ما
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mh.rezaee.ai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mohammadhassan-rezaei/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: jobvision.ir/cv/87330428-102408
+    label: دانلود رزومه مدیر
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
